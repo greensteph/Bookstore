@@ -1,0 +1,20 @@
+/* CSS Document */
+#wrapper{
+	border: thin solid green;
+	color: #AAEAC1;
+	}
+	
+#topHeader{
+	font-size:24px; 
+	text-align:center
+	}
+	
+#footer{
+	text-align:center; 
+	padding:5px; 
+	border-top:thin solid black
+	}
+legend {
+	text-align: center;
+	}
+
